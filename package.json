@@ -1,0 +1,18 @@
+{
+	"name": "ch.hyper-tech.layout-switcher",
+	"version": "1.0.0",
+	"displayName": "Layout Switcher",
+	"description": "A plugin to switch Unity layouts automatically.",
+	"unity": "2019.1",
+	"dependencies": {},
+	"keywords": [
+		"layout",
+		"editor",
+		"tool"
+	],
+	"author": {
+		"name": "Joshua Schmidt & Perplexity AI",
+		"email": "joshua@hyper-tech.ch",
+		"url": "https://hyper-tech.ch"
+	}
+}
